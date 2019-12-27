@@ -9,4 +9,4 @@ QTcpSocket客户端、服务端互发字符串的示例
 此项目博客地址：https://shazhenyu.blog.csdn.net/article/details/53283686 <BR/>
 <BR/>
 # 3、效果
-![image](https://github.com/ShaShiDiZhuanLan/Demo_MessageChat_Qt/blob/master/%E6%95%88%E6%9E%9C1.png) 
+![image](https://github.com/ShaShiDiZhuanLan/Demo_TcpSocket_Qt/blob/master/%E6%95%88%E6%9E%9C1.png) 
